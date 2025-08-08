@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Jay S. Romero</h1>
 <h3 align="center">A passionate Graphic Artist</h3>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjayromero&label=Profile%20views&color=0e75b6&style=flat" alt="cjayromero" /> </p>
 
@@ -11,7 +10,7 @@
 - 🌱 I’m currently learning **Blender and adobe photoshop and Illustrator**
 
 - ⚡ Fun fact **I can Dance Like Michael jackson🕺**
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
