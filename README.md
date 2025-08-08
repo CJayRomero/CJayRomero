@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk5M2JjYWdueW41c2w4cGphc28wcWJjdzVzdjdnOHU3b3BtMXlhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUeXcg80cO8I8/giphy.gif" height="150" />
 </div>
-<h3 align="center">A passionate Graphic Artist</h3>
+<h3 align="center">Aspiring Graphic Artist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjayromero&label=Profile%20views&color=0e75b6&style=flat" alt="cjayromero" /> </p>
 
@@ -25,4 +25,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+<img src="https://33.media.tumblr.com/d192264c40cc8abeba5fdfd942bf780b/tumblr_noflm4rUgF1u3wnxjo1_500.gif" height="150" />
 </div>
