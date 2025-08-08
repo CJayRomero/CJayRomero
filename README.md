@@ -2,6 +2,9 @@
 
 <div align="center">
 <img src="https://i.pinimg.com/originals/c2/81/ac/c281ac0e6c8ad429dc2c9dd6f6d66668.gif" height="150" />
+  img {
+  border-radius: 50%;
+}
 </div>
 <h3 align="center">A passionate Graphic Artist</h3>
 
