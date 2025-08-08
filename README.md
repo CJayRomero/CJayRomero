@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian Jay S. Romero</h1>
 
 <div align="center">
-<img src="[https://i.imgflip.com/65efzo.gif" height="150" />
+<img src="https://i.imgflip.com/65efzo.gif" height="150" />
 </div>
 <br clear="both">
 <h3 align="center">A passionate Graphic Artist</h3>
