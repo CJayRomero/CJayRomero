@@ -14,6 +14,16 @@
 
 ###
 
+<h2 align="left">🔄 Currently Learning / Working On</h2>
+
+###
+
+<br clear="both">
+
+<p align="left">- UI/UX  designing<br>- CSS and HTML<br>- Seamless game textures<br>- PBR workflows and realistic material creation<br>- Motion graphics in After Effects</p>
+
+###
+
 <h1 align="center">My Tools🧰</h1>
 
 ###
@@ -58,16 +68,6 @@
 
 ###
 
-<h2 align="left">🔄 Currently Learning / Working On</h2>
-
-###
-
-<br clear="both">
-
-<p align="left">- UI/UX  designing<br>- CSS and HTML<br>- Seamless game textures<br>- PBR workflows and realistic material creation<br>- Motion graphics in After Effects</p>
-
-###
-
 <h2 align="left">🎯 Fun Facts</h2>
 
 ###
@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://github.com/CJayRomero/profile-readme-generator/blob/main/images/2025-08-14%2000_22_56-Window.png)"  />
 </div>
 
 ###
