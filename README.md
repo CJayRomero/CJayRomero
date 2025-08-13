@@ -95,25 +95,25 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="1000" src="https://github.com/CJayRomero/profile-readme-generator/blob/d0a51f0777260187204b451a78bc3ef51edbe8a6/images/2025-08-14%2000_36_26-Window.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="1000" src="https://github.com/CJayRomero/profile-readme-generator/blob/d0a51f0777260187204b451a78bc3ef51edbe8a6/images/2025-08-14%2000_37_12-Window.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="1000" src="https://github.com/CJayRomero/profile-readme-generator/blob/d0a51f0777260187204b451a78bc3ef51edbe8a6/images/2025-08-14%2000_35_11-Window.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="1000" src="https://github.com/CJayRomero/profile-readme-generator/blob/d0a51f0777260187204b451a78bc3ef51edbe8a6/images/2025-08-14%2000_35_34-Window.png"  />
 </div>
 
 ###
