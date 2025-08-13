@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://github.com/CJayRomero/profile-readme-generator/blob/main/images/2025-08-14%2000_22_56-Window.png)"  />
+  <img height="200" src="https://github.com/CJayRomero/profile-readme-generator/blob/d0a51f0777260187204b451a78bc3ef51edbe8a6/images/2025-08-14%2000_22_56-Window.png"  />
 </div>
 
 ###
