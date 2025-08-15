@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<p align="left">- UI/UX  designing<br>- CSS and HTML<br>- Seamless game textures<br>- PBR workflows and realistic material creation<br>- Motion graphics in After Effects</p>
+<p align="left">- UI/UX  designing<br>- CSS and HTML<br> PBR workflows material creation<br></p>
 
 ###
 
