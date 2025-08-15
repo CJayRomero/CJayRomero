@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<p align="left">- UI/UX  designing<br>- CSS and HTML<br> PBR workflows material creation<br></p>
+<p align="left">- UI/UX  designing<br>- CSS and HTML<br>- PBR workflows material creation<br></p>
 
 ###
 
